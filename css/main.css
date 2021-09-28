@@ -14,9 +14,9 @@ h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
 }
 
-.skip-links {
+.skip-links a {
   background-color: #FFFFFF;
-  color: #000000;
+  color: #0000EE;
 }
 
 .container {
